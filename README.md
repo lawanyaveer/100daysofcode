@@ -1,5 +1,6 @@
 # 🚀 100 Days of Code Challenge
-![image](https://github.com/lawanyaveer/100daysofcode/assets/112944303/2cd090ec-40d1-4a24-bcf2-2f0f2405d332)
+![image](https://github.com/lawanyaveer/100daysofcode/assets/112944303/5f1b2794-917c-4737-a61f-e32f9a59f28d)
+
 
 
 Welcome to my 100 Days of Code Challenge! 🎉 This repository documents my coding journey, where I've dived into the realms of Java, Python, and the fascinating world of Data Structures & Algorithms.
