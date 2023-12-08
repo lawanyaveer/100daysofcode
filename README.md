@@ -15,9 +15,9 @@ Embarking on this adventure has been like wielding a triple-edged sword! ☕ �
 
 ## LinkedIn Post
 
-Ecstatic to share the completion of my 100 Days of Code Challenge! 🌟 The journey through Java, Python, and the intricate dance with algorithms has been nothing short of exhilarating. Dive into the details and discover the magic! ✨
+Ecstatic to share the completion of my 100 Days of Code Challenge! 🌟 The journey through Java, Python, and the intricate dance with algorithms has been nothing short of exhilarating. Dive into the details and discover the magic! ✨ 
 
-[Explore the adventure here.] https://www.linkedin.com/posts/lawanya-veer_github-lawanyaveer100daysofcode-100daysofcode-activity-7130468216140611586-ySIA?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/lawanya-veer_github-lawanyaveer100daysofcode-100daysofcode-activity-7130468216140611586-ySIA?utm_source=share&utm_medium=member_desktop
 
 
 #100DaysOfCode #Java #Python #DSA #CodeJourney 
