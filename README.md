@@ -13,6 +13,12 @@ The goal of this challenge? Elevate my coding prowess! 🚀 Embracing Java's str
 
 Embarking on this adventure has been like wielding a triple-edged sword! ☕ 🐍 📚 Java, with its caffeinated syntax, laid the groundwork for robust, object-oriented wonders. Python, the sly fox of languages, brought brevity and versatility to my coding arsenal. And then, the grand finale - Data Structures & Algorithms. 🧠 The puzzle-solving wizardry honed my skills, turning me into a coding maestro.
 
+## My Coding Platforms Profile 
+
+Geeks For Geeks - https://auth.geeksforgeeks.org/user/lawanyaveer
+
+Leetcode -        https://leetcode.com/lawanyaveer/
+
 ## LinkedIn Post
 
 Ecstatic to share the completion of my 100 Days of Code Challenge! 🌟 The journey through Java, Python, and the intricate dance with algorithms has been nothing short of exhilarating. Dive into the details and discover the magic! ✨ 
