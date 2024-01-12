@@ -31,4 +31,4 @@ class Solution {
     result += sign * num;
     return result;
     }
-}
+} 
